@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="package1.FibonacciSeries">
+      <class name="stringJavaPrograms.StringReversal">
         <methods>
-          <include name="fib"/>
+          <include name="Strrev"/>
         </methods>
-      </class> <!-- package1.FibonacciSeries -->
+      </class> <!-- stringJavaPrograms.StringReversal -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
